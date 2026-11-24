@@ -6,3 +6,4 @@ Committing after the security group updated.
 test commit
 updated the payload with /
 check the job run upon this commit
+Updated the security Group only to myip for port 8080
